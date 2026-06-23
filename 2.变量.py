@@ -29,18 +29,18 @@ print(a, b, c)    #1 2 3
 5..当然，记得养成命名好习惯，别图省事
 """
 
-#二、1.1整数 int（整型）
+#二、1.1 整数 int（整型）
 broken_heart = 1
 print(broken_heart) #1
 print(type(broken_heart))    #<class 'int'>
 
-#1.2浮点数 float（浮点型，小数）
+#1.2 浮点数 float（浮点型，小数）
 print(type(114.514))    #<class 'float'>
 
-#1.3布尔类型 bool[只有两个值：True（等价整数 1）、False（等价整数 0）]
+#1.3 布尔类型 bool[只有两个值：True（等价整数 1）、False（等价整数 0）]
 print(type(True)) #<class 'bool'>
 
-#1.4复数 complex(实部 + 虚部)
+#1.4 复数 complex(实部 + 虚部)
 num = 1 + 2j
 print(type(num)) # <class 'complex'>
 
