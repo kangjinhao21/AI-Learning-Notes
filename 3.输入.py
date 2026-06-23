@@ -1,4 +1,4 @@
-#input函数(cin??)
+# input函数(cin??)
 name = input("你的名字：") #姓名保存到name变量
 print(name,"我找到你了") #name 我找到你了 "问 -> 反应（一丝期待） -> 答“
 
